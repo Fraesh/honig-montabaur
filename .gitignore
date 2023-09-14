@@ -3,6 +3,7 @@ node_modules
 /.svelte-kit
 /package
 .env
+.build
 .env.*
 !.env.example
 vite.config.js.timestamp-*
