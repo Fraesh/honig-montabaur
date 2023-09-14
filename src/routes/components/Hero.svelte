@@ -3,8 +3,8 @@
 
 	import Ast1 from '$lib/assets/img/ast1.svg';
 	import Ast2 from '$lib/assets/img/ast2.svg';
-	import Schloss from './ornaments/Schloss.svelte';
-	import Hex from './ornaments/Hex.svelte';
+	import Schloss from '$lib/components/ornaments/Schloss.svelte';
+	import Hex from '$lib/components/ornaments/Hex.svelte';
 </script>
 
 <div class="hero min-h-screen max-w-full relative">
@@ -22,8 +22,8 @@
 			<h1 class="text-5xl font-bold miami whitespace-nowrap">Hugos Naturhonig</h1>
 			<h2 class="text-4xl ml-28">aus Montabaur</h2>
 			<p class="py-6">
-				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-				quasi. In deleniti eaque aut repudiandae et a id nisi.
+				Leckerster Honig aus dem Westerwald. Etwas was besseres hat ihr Brot nie gesehen und warten
+				sie erst darauf, was ihr Gaumen dazu sagt.
 			</p>
 			<button class="btn btn-primary font-bold">Honig bestellen</button>
 		</div>

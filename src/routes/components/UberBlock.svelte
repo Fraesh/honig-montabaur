@@ -1,7 +1,7 @@
 <script>
 	import Img from '$lib/assets/img/filler1.webp';
 	import Line from '$lib/assets/img/line1.svg';
-	import Schloss from './ornaments/Schloss.svelte';
+	import Schloss from '$lib/components/ornaments/Schloss.svelte';
 </script>
 
 <div class="bg-base-200 w-full max-w-full relative py-24 px-8 overflow-hidden">
