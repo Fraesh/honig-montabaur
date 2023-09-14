@@ -19,7 +19,7 @@
 				Wappen.
 			</p>
 			<p>
-				Einst traf ich einen Fürst dem man nachsagte, dass er sich ausschließlich von Honig
+				Einst traf ich einen Fürsten dem man nachsagte, dass er sich ausschließlich von Honig
 				ernährte. Man nannte ihn auch den "Honigmann". Er kostet unser Bienengold und nach einem
 				kurzen, bedenklichen Blick in die Ferne schlang er halbe Glas als hätte ihn gar der Teufel
 				geritten. Es bedarf keiner weiteren Worte, sein Appetit ist unser Gütesiegel
