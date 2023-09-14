@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'Miami';
+	src: url('/fonts/Miama.ttf.woff');
+	font-weight: normal;
+	font-display: swap;
+}
+
+.miami {
+	font-family: 'Miami' !important;
+}
+
+body {
+	position: relative;
+	font-family: 'Nunito Variable', sans-serif;
+}
+
+html,
+body {
+	width: 100vw;
+	height: 100vh;
+	overflow-x: hidden;
+}
