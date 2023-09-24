@@ -1,10 +1,10 @@
-<nav class="navbar py-6 max-w-7xl m-auto z-10 absolute top-0 left-0 right-0">
+<nav class="navbar py-6 max-w-7xl m-auto z-10 absolute top-0 left-0 right-0 px-6 lg:px-0">
 	<button class="flex flex-col items-start cursor-pointer">
 		<div class="font-bold miami text-lg">Hugos Naturhonig</div>
 		<div class="text-sm ml-10 -mt-2">aus Montabaur</div>
 	</button>
 	<div class="flex-1" />
-	<div>
+	<div class="hidden lg:flex">
 		<ul class="menu menu-horizontal px-1 gap-8">
 			<li class="font-bold"><a>Über uns</a></li>
 			<li class="font-bold"><a>Königinnen</a></li>
