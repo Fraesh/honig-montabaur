@@ -7,10 +7,10 @@
 	class="bg-base-200 w-full max-w-full relative overflow-hidden flex gap-10 flex-col-reverse md:flex-row"
 	id="uberuns"
 >
-	<img src={Img} class="object-cover w-full md:w-1/2" />
+	<img src={Img} class="object-cover w-full h-96 md:h-auto md:w-1/2" />
 
 	<div class="flex flex-col gap-5 flex-1 pt-24 md:pb-36 px-8 md:max-w-[40rem] relative">
-		<h1 class="text-5xl font-bold miami mb-4" style="line-height:5rem">Ein Herz für Bienen</h1>
+		<h1 class="text-4xl md:text-5xl font-bold miami mb-4">Ein Herz für Bienen</h1>
 		<p>
 			Wir, Dr. Rudolf und Susanne Schneider, sind Agraringenieure aus dem Westerwald. Beruflich
 			haben wir uns nicht nur mit großen, sondern auch mit kleinen Tieren auseinandergesetzt.

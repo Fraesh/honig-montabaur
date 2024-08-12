@@ -1,6 +1,6 @@
 <div class="bg-neutral text-neutral-content w-full max-w-full relative overflow-hidden">
 	<footer class="footer py-16 px-8 max-w-7xl w-full m-auto">
-		<aside>
+		<aside class="justify-self-center md:justify-self-start">
 			<button class="flex flex-col items-start cursor-pointer">
 				<div class="font-bold miami text-3xl mt-8">Hugos Naturhonig</div>
 				<div class="text-xl ml-20 -mt-2">aus Montabaur</div>
