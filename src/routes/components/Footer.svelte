@@ -6,7 +6,7 @@
 				<div class="text-xl ml-20 -mt-2">aus Montabaur</div>
 			</button>
 		</aside>
-		<nav>
+		<!-- <nav>
 			<header class="footer-title">Information</header>
 			<a class="link link-hover">Sorten</a>
 			<a class="link link-hover">Nährstoffe</a>
@@ -24,6 +24,6 @@
 			<header class="footer-title">Legal</header>
 			<a class="link link-hover">DSGVO</a>
 			<a class="link link-hover">Impressum</a>
-		</nav>
+		</nav> -->
 	</footer>
 </div>

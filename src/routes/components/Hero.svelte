@@ -21,11 +21,8 @@
 		<div class="">
 			<h1 class="text-5xl font-bold miami whitespace-nowrap">Hugos Naturhonig</h1>
 			<h2 class="text-4xl ml-28">aus Montabaur</h2>
-			<p class="py-6">
-				Leckerster Honig aus dem Westerwald. Etwas was besseres hat ihr Brot nie gesehen und warten
-				sie erst darauf, was ihr Gaumen dazu sagt. Ein Fest sag ich nur!
-			</p>
-			<button class="btn btn-primary font-bold">Honig bestellen</button>
+			<p class="py-6">Leckerster Honig aus dem Westerwald.</p>
+			<!-- <button class="btn btn-primary font-bold">Honig bestellen</button> -->
 		</div>
 	</div>
 </div>

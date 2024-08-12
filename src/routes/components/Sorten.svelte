@@ -7,7 +7,7 @@
 </script>
 
 <div class="bg-base-100 w-full max-w-full relative py-24 px-8 overflow-hidden">
-	<div class="max-w-7xl w-full m-auto flex gap-32 relative z-10">
+	<div class="max-w-7xl w-full m-auto flex gap-32 relative z-10 flex-col md:flex-row">
 		<div class="flex flex-col items-center flex-1">
 			<div class="flex mb-4 mt-16 items-center gap-8">
 				<img src={IconFruh} class="h-12 mb-7" />
