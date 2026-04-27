@@ -5,6 +5,7 @@
 </script>
 
 <div
+	id="qualitaet"
 	class="bg-base-200 w-full max-w-full relative overflow-hidden flex gap-10 flex-col md:flex-row items-stretch"
 >
 	<div class="flex-1 flex justify-end">
