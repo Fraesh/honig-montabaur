@@ -15,34 +15,58 @@
 		<div
 			class="flex flex-col gap-5 flex-1 pt-24 md:pb-36 px-8 md:max-w-[40rem] relative shrink-0 w-full"
 		>
-			<h1 class="text-4xl md:text-5xl font-bold miami mb-4">Ein Herz für Bienen</h1>
-			<p>
-				Wir, Dr. Rudolf und Susanne Schneider, sind Agraringenieure aus dem Westerwald. Beruflich
-				haben wir uns nicht nur mit großen, sondern auch mit kleinen Tieren auseinandergesetzt.
+			<h2 class="text-primary font-bold uppercase tracking-widest text-sm mb-2">
+				Genuss mit Verantwortung
+			</h2>
+			<h1 class="text-4xl md:text-5xl font-bold miami mb-6">Ein Herz für Bienen</h1>
+			<p class="text-lg leading-relaxed mb-8">
+				<b>Dr. Hugo und Susanne Schneider</b>, Agraringenieure aus dem Westerwald, widmen sich mit
+				Leidenschaft der Bienenhaltung und Erzeugung von hochwertigem Honig. Als passionierte Imker
+				legen wir großen Wert auf eine naturschonende Betriebsweise.
 			</p>
-			<p>
-				Über Maßnahmen der Züchtung möchten wir einen aktiven Beitrag zur Gesundheit der
-				europäischen Bienen leisten. Durch gezielte Auslese unserer Bienenvölker wollen wir dazu
-				beitragen, dass die Bienenvölker resistent gegen die Varroamilbe werden. Dieser in den
-				1980ern aus Asien eingeschleppte Parasit ist hauptverantwortlich für das sog.
-				„Bienensterben“.
-			</p>
-			<p>
-				Während sich die Asiatische Biene in jahrtausendelanger Auseinandersetzung mit diesem
-				Parasiten arrangiert hat, ist er für unsere Westliche Honigbiene derzeit noch meist tödlich.
-				Es besteht jedoch Hoffnung, dass sich dieser Anpassungsprozess in absehbarer Zeit
-				züchterisch nachholen lässt. Neuere wissenschaftliche Untersuchungen haben gezeigt, dass die
-				Erfolgsaussichten dazu günstig sind.
-			</p>
-			<p>
-				Das wichtigste Ziel in der Bienenzucht ist deshalb für uns die Gesundheit unserer Völker und
-				die besondere Qualität unseres Honigs.
-			</p>
-			<p>
-				Helfen Sie mit, unsere Zuchtziele zu erreichen und unterstützen unsere Arbeit, indem Sie
-				unseren Honig kaufen. Sie tun damit nicht nur etwas Gutes für die Bienen in Ihrer Region,
-				sondern auch in ganz Europa.
-			</p>
+
+			<h3 class="text-primary font-bold uppercase tracking-widest text-sm mb-5">
+				Unser Engagement:
+			</h3>
+			<ul class="flex flex-col gap-5">
+				<li
+					class="flex gap-4 items-start bg-white/40 p-5 rounded-2xl shadow-sm border border-white/50 backdrop-blur-sm"
+				>
+					<div class="w-2.5 h-2.5 rounded-full bg-primary mt-2 shrink-0 shadow-sm" />
+					<div>
+						<b class="block text-lg mb-1">Kampf gegen das Bienensterben</b>
+						<p class="leading-relaxed">
+							Wir setzen auf tierschonende Züchtung ohne Gentechnologie. Durch gezielte Auslese
+							stärken wir die Resistenz unserer Bienen.
+						</p>
+					</div>
+				</li>
+				<li
+					class="flex gap-4 items-start bg-white/40 p-5 rounded-2xl shadow-sm border border-white/50 backdrop-blur-sm"
+				>
+					<div class="w-2.5 h-2.5 rounded-full bg-primary mt-2 shrink-0 shadow-sm" />
+					<div>
+						<b class="block text-lg mb-1">Lokale Erzeugung</b>
+						<p class="leading-relaxed">
+							Unser Honig ist ein echtes Geschenk der Natur und spiegelt die Vielfalt des
+							Westerwaldes wider. So entsteht Honig von unvergleichlicher Fülle mit einem
+							einzigartigen Geschmacksprofil.
+						</p>
+					</div>
+				</li>
+				<li
+					class="flex gap-4 items-start bg-white/40 p-5 rounded-2xl shadow-sm border border-white/50 backdrop-blur-sm"
+				>
+					<div class="w-2.5 h-2.5 rounded-full bg-primary mt-2 shrink-0 shadow-sm" />
+					<div>
+						<b class="block text-lg mb-1">Unterstützung der Biodiversität</b>
+						<p class="leading-relaxed">
+							Durch Bestäuben tragen unsere Bienen zum Erhalt der Artenvielfalt und lokalen
+							Pflanzenwelt bei.
+						</p>
+					</div>
+				</li>
+			</ul>
 			<img
 				src={Line}
 				class="object-cover md:hidden -mx-8 h-16 min-w-[100vw] mt-10 object-center"

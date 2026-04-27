@@ -6,24 +6,23 @@
 				<div class="text-xl ml-20 -mt-2">aus Montabaur</div>
 			</button>
 		</aside>
-		<!-- <nav>
-			<header class="footer-title">Information</header>
-			<a class="link link-hover">Sorten</a>
-			<a class="link link-hover">Nährstoffe</a>
-			<a class="link link-hover">Region</a>
-			<a class="link link-hover">Rezepte</a>
-		</nav>
 		<nav>
-			<header class="footer-title">Imkerei</header>
-			<a class="link link-hover">Über uns</a>
-			<a class="link link-hover">Kontakt</a>
-			<a class="link link-hover">Vertrieb</a>
-			<a class="link link-hover">Standorte</a>
+			<header class="footer-title font-bold tracking-widest uppercase mb-4 opacity-90 text-primary">
+				Kontakt
+			</header>
+			<div class="flex flex-col gap-2 opacity-80">
+				<p class="font-bold opacity-100">Dr. Rudolf &amp; Susanne Schneider</p>
+				<p>Buchenstr. 24, 56410 Montabaur-Horressen</p>
+				<p>Tel.: (02602) 1060808</p>
+				<p>Mobil: 01575 5745041</p>
+				<p>
+					E-Mail: <a
+						href="mailto:dr.hugo.schneider@freenet.de"
+						class="link link-hover font-medium underline underline-offset-4 opacity-100"
+						>dr.hugo.schneider@freenet.de</a
+					>
+				</p>
+			</div>
 		</nav>
-		<nav>
-			<header class="footer-title">Legal</header>
-			<a class="link link-hover">DSGVO</a>
-			<a class="link link-hover">Impressum</a>
-		</nav> -->
 	</footer>
 </div>
