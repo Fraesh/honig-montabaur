@@ -7,7 +7,7 @@
 
 <div class="bg-base-100 w-full max-w-full relative py-36 px-8 overflow-hidden">
 	<div class="max-w-7xl w-full m-auto flex flex-col gap-5 relative z-10 text-lg">
-		<h1 class="text-3xl md:text-5xl font-bold miami mb-10 leading-tight">
+		<h1 class="text-3xl md:text-5xl font-bold miami mb-10 leading-[3rem] md:leading-normal">
 			Die Kunst der Königinnenzucht: Wie wir gesunde Bienenvölker heranziehen
 		</h1>
 
@@ -20,7 +20,9 @@
 			Überleben und die Gesundheit unserer Population zu sichern.
 		</p>
 
-		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4">Die Rolle der Königin</h2>
+		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4 leading-[3rem] md:leading-normal">
+			Die Rolle der Königin
+		</h2>
 		<p>
 			Eine durchschnittliche Königin legt während ihrer zweieinhalb- bis dreijährigen Lebensdauer
 			bis zu 2.000 Eier täglich. Das bedeutet, dass sie im Laufe ihres Lebens mehrere hunderttausend
@@ -30,7 +32,7 @@
 			Gene der Königin bestimmt.
 		</p>
 
-		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4">
+		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4 leading-[3rem] md:leading-normal">
 			Unser Zuchtansatz: Wissenschaft und Sorgfalt
 		</h2>
 		<p>
@@ -41,7 +43,7 @@
 			ihren verheerenden Einfluss ausrichten.
 		</p>
 
-		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4">
+		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4 leading-[3rem] md:leading-normal">
 			Der komplexe Zuchtprozess: Ein Blick hinter die Kulissen
 		</h2>
 		<div class="flex lg:flex-row flex-col gap-6">
@@ -89,7 +91,7 @@
 			/>
 		</div>
 
-		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4">
+		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4 leading-[3rem] md:leading-normal">
 			Begattung auf den Ostfriesischen Inseln
 		</h2>
 		<p>
@@ -103,7 +105,7 @@
 			Generationen ermöglicht.
 		</p>
 
-		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4">
+		<h2 class="text-2xl md:text-3xl font-bold miami mt-8 mb-4 leading-[3rem] md:leading-normal">
 			Unsere Vision: Das Überleben der Westlichen Honigbiene
 		</h2>
 		<p>
